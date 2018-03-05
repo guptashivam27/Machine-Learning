@@ -69,20 +69,16 @@ When we look at the hyper-plane in original input space it looks like a circle:
 <h3>Some advantages and disadvantages associated with SVM are:</h3>
 
 <h4>Advantages:</h4>
-<p>
 - It works really well with clear margin of separation.<br/>
 - It is effective in high dimensional spaces.<br/>
 - It is effective in cases where number of dimensions is greater than the number of samples.<br/>
 - It uses a subset of training points in the decision function (called support vectors), so it is also memory efficient.<br/>
-</p>
 
 <h4>Disadvantages:</h4>
-<p>
 - It doesn’t perform well, when we have large data set because the required training time is higher<br/>
 - It also doesn’t perform very well, when the data set has more noise i.e. target classes are overlapping<br/>
 - SVM doesn’t directly provide probability estimates.<br/>
-</p>
 
 <h4>References:</h4> 
 (i) <href>https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/<href><br/>
-(ii) <href>https://en.wikipedia.org/wiki/Support_vector_machine
+(ii) <href>https://en.wikipedia.org/wiki/Support_vector_machine<br/>
